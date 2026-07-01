@@ -40,4 +40,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnals9957)](https://solved.ac/ruddms1522/)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruddms1522)](https://solved.ac/ruddms1522/)
